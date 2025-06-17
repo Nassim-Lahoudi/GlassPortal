@@ -6,6 +6,7 @@
 <body>
 <h1>GlassPortal – Modernes Portfolio mit React &amp; Vite</h1>
 <p><strong>GlassPortal</strong> ist ein modernes, responsives Portfolio-Template, das mit <a href="https://react.dev/" target="_blank">React</a> und <a href="https://vitejs.dev/" target="_blank">Vite</a> entwickelt wurde. Es nutzt Glassmorphism-Design und bietet eine einfache Navigation zwischen den Bereichen Willkommen, Home, Projekte und Über mich.</p>
+<p><strong>Hinweis:</strong> Es gibt keine richtige Mobile-Ansicht. Das Layout ist hauptsächlich für Desktop optimiert.</p>
 <h2>Features</h2>
 <ul>
 <li><strong>Glassmorphism UI:</strong> Moderner, transparenter Look mit Blur-Effekten</li>
