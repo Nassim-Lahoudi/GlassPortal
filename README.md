@@ -3,14 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>GlassPortal – Modernes Portfolio mit React & Vite</title>
-<style>
-body { font-family: Arial, sans-serif; margin: 2em; background: #f8f9fa; color: #222; }
-code, pre { background: #eee; padding: 2px 4px; border-radius: 3px; }
-pre { padding: 1em; }
-h1, h2, h3 { color: #2c3e50; }
-ul { margin-bottom: 1em; }
-.struktur { background: #f4f4f4; border: 1px solid #ddd; padding: 1em; border-radius: 5px; }
-</style>
 </head>
 <body>
 <h1>GlassPortal – Modernes Portfolio mit React &amp; Vite</h1>
