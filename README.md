@@ -11,7 +11,7 @@
 <ul>
 <li><strong>Glassmorphism UI:</strong> Moderner, transparenter Look mit Blur-Effekten</li>
 <li><strong>React Router:</strong> Navigation zwischen mehreren Seiten</li>
-<li><strong>Responsives Design:</strong> Optimiert für Desktop und Mobile</li>
+<li><strong>Responsives Design:</strong> Optimiert für Desktop</li>
 <li><strong>Kontaktmodal:</strong> E-Mail-Adresse kann per Klick in die Zwischenablage kopiert werden</li>
 <li><strong>Social Links:</strong> GitHub und LinkedIn Verlinkungen</li>
 </ul>
