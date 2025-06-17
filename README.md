@@ -2,7 +2,6 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<title>GlassPortal – Modernes Portfolio mit React & Vite</title>
 </head>
 <body>
 <h1>GlassPortal – Modernes Portfolio mit React &amp; Vite</h1>
