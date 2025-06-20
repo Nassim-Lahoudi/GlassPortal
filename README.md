@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 </head>
 <body>
-<h1>GlassPortal – Modernes Portfolio mit React &amp; Vite</h1>
-<p><strong>GlassPortal</strong> ist ein modernes, responsives Portfolio-Template, das mit <a href="https://react.dev/" target="_blank">React</a> und <a href="https://vitejs.dev/" target="_blank">Vite</a> entwickelt wurde. Es nutzt Glassmorphism-Design und bietet eine einfache Navigation zwischen den Bereichen Willkommen, Home, Projekte und Über mich.</p>
-<p><strong>Hinweis:</strong> Es gibt keine richtige Mobile-Ansicht. Das Layout ist hauptsächlich für Desktop optimiert.</p>
+<h1>GlassPortfolio – Modern Portfolio with React &amp; Vite</h1>
+<p><strong>GlassPortal</strong> is a modern, responsive portfolio template built with <a href="https://react.dev/" target="_blank">React</a> and <a href="https://vitejs.dev/" target="_blank">Vite</a>. It uses a glassmorphism design and offers easy navigation between the Welcome, Home, Projects, and About sections.</p>
+<p><strong>Note:</strong> There is no proper mobile view. The layout is mainly optimized for desktop.</p>
 <h2>Features</h2>
 <ul>
-<li><strong>Glassmorphism UI:</strong> Moderner, transparenter Look mit Blur-Effekten</li>
-<li><strong>React Router:</strong> Navigation zwischen mehreren Seiten</li>
-<li><strong>Responsives Design:</strong> Optimiert für Desktop</li>
-<li><strong>Kontaktmodal:</strong> E-Mail-Adresse kann per Klick in die Zwischenablage kopiert werden</li>
-<li><strong>Social Links:</strong> GitHub und LinkedIn Verlinkungen</li>
+<li><strong>Glassmorphism UI:</strong> Modern, transparent look with blur effects</li>
+<li><strong>React Router:</strong> Navigation between multiple pages</li>
+<li><strong>Responsive Design:</strong> Optimized for desktop</li>
+<li><strong>Contact Modal:</strong> Email address can be copied to clipboard with one click</li>
+<li><strong>Social Links:</strong> GitHub and LinkedIn links</li>
 </ul>
-<h2>Projektstruktur</h2>
+<h2>Project Structure</h2>
 <pre class="struktur">
 ├── public/
 │   ├── github.png
@@ -35,33 +35,32 @@
 ├── package.json
 └── vite.config.js
 </pre>
-<h2>Installation &amp; Entwicklung</h2>
+<h2>Installation &amp; Development</h2>
 <ol>
-<li><strong>Repository klonen:</strong>
+<li><strong>Clone the repository:</strong>
 <pre><code>git clone &lt;REPO-URL&gt;
-cd GlassPortal</code></pre>
+cd GlassPortfolio</code></pre>
 </li>
-<li><strong>Abhängigkeiten installieren:</strong>
+<li><strong>Install dependencies:</strong>
 <pre><code>npm install</code></pre>
 </li>
-<li><strong>Entwicklungsserver starten:</strong>
+<li><strong>Start development server:</strong>
 <pre><code>npm run dev</code></pre>
 </li>
-<li><strong>Projekt im Browser öffnen:</strong><br>
-Standardmäßig unter <a href="http://localhost:5173" target="_blank">http://localhost:5173</a>
+<li><strong>Open the project in your browser:</strong><br>
+By default at <a href="http://localhost:5173" target="_blank">http://localhost:5173</a>
 </li>
 </ol>
-<h2>Build für Produktion</h2>
+<h2>Production Build</h2>
 <pre><code>npm run build</code></pre>
-<p>Das gebaute Projekt befindet sich im <code>dist</code>-Ordner.</p>
-<h2>Anpassung</h2>
+<p>The built project will be in the <code>dist</code> folder.</p>
+<h2>Customization</h2>
 <ul>
-<li><strong>Bilder:</strong> Ersetze die Bilder im <code>public/</code>-Ordner durch eigene.</li>
-<li><strong>Texte &amp; Links:</strong> Passe die Inhalte in den Komponenten (<code>src/*.jsx</code>) an.</li>
-<li><strong>Farben &amp; Styles:</strong> Ändere die CSS-Dateien (<code>src/App.css</code>, <code>src/index.css</code>) nach Wunsch.</li>
+<li><strong>Images:</strong> Replace the images in the <code>public/</code> folder with your own.</li>
+<li><strong>Texts &amp; Links:</strong> Edit the content in the components (<code>src/*.jsx</code>).</li>
+<li><strong>Colors &amp; Styles:</strong> Change the CSS files (<code>src/App.css</code>, <code>src/index.css</code>) as you like.</li>
 </ul>
-<h2>Lizenz</h2>
-<p>Dieses Projekt steht unter der MIT-Lizenz.</p>
+<h2>License</h2>
+<p>This project is licensed under the MIT License.</p>
 <hr>
-<p><em>Viel Spaß beim Personalisieren deines Portfolios!</em></p>
-</body>
+<p><em>Have fun personalizing your portfolio!</em></p>
