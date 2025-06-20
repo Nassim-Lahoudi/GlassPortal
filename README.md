@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>GlassPortfolio – Modern Portfolio with React &amp; Vite</h1>
-<p><strong>GlassPortal</strong> is a modern, responsive portfolio template built with <a href="https://react.dev/" target="_blank">React</a> and <a href="https://vitejs.dev/" target="_blank">Vite</a>. It uses a glassmorphism design and offers easy navigation between the Welcome, Home, Projects, and About sections.</p>
+<p><strong>GlassPortfolio</strong> is a modern, responsive portfolio template built with <a href="https://react.dev/" target="_blank">React</a> and <a href="https://vitejs.dev/" target="_blank">Vite</a>. It uses a glassmorphism design and offers easy navigation between the Welcome, Home, Projects, and About sections.</p>
 <p><strong>Note:</strong> There is no proper mobile view. The layout is mainly optimized for desktop.</p>
 <h2>Features</h2>
 <ul>
